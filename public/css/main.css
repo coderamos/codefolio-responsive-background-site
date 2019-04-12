@@ -1,0 +1,61 @@
+html{
+    scroll-behavior: smooth;
+  }
+  
+  #section-01 {
+    background-color: #948DB3;
+  }
+  
+  #section-02 {
+    background-color: #605885;
+  }
+  
+  #section-03 {
+    background-color: #433B67;
+  }
+  
+  #section-04 {
+    background-color: #B7AFD4;
+  }
+  
+  .section {
+    position: relative;
+    height: 100vh;
+    display: block;
+  }
+  
+  .scroll-icon {
+    position: absolute;
+    bottom: 3em;
+    width: 50px;
+    height: 50px;
+    background-color: rgba(0, 0, 0, 0.1);
+    border-radius: 50%;
+    left: 50%;
+    margin-left: -25px;
+    cursor: pointer;
+  }
+  
+  .scroll {
+    width: 15px;
+    height: 15px;
+    border-right: 2px solid #FFF;
+    border-bottom: 2px solid #FFF;
+    display: inline-block;
+    position: relative;
+  }
+  
+  .scroll-next {
+    transform: rotate(45deg);
+    margin: 14px 0 0 17px;
+  }
+  
+  .scroll-top {
+    transform: rotate(225deg);
+    margin: 16px 0 0 17px;
+  }
+  
+  .scroll-top+.scroll-top {
+    top: -15px;
+    margin-top: 0;
+  }
