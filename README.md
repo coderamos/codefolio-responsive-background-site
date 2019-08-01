@@ -1,4 +1,4 @@
-# CODERAMOS | responsive background site
+# coderamos | RESPONSIVE BACKGROUND SITE
 
 Creating a responsive background website using only HTML and CSS.
 
@@ -14,6 +14,6 @@ Link for example video: https://www.youtube.com/watch?v=cWtAQ4u9blk
 
 ## About Me
 
-My Github profile: https://github.com/coderamos
+My Github profile: https://github.com/coderamos/
 
 My Linkedin profile: https://www.linkedin.com/in/coderamos/
