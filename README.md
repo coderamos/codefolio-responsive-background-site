@@ -1,4 +1,4 @@
-# codefolio | RESPONSIVE BACKGROUND SITE
+# example | RESPONSIVE BACKGROUND SITE
 
 Creating a responsive background website using only HTML and CSS.
 
